@@ -1,6 +1,7 @@
 # Event-Management-System
 Event Management System supports user profile management, event creation, sign up and search.
 
+To deploy the project in netbeans,  
 DataBase name: emsDB  
 Username: administrator  
 Password: password  
